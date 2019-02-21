@@ -1,0 +1,46 @@
+body{
+	background-image:url("images/botw.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+h1{
+	font-size: 20vh;
+	color:white;
+	font-family:'BebasNeueRegular';
+	letter-spacing: 5vw;
+	text-align: center;
+	margin: auto;
+}
+
+#loadingGif{
+	margin-top:50px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#loadingSection{
+	margin-top:50px;
+}
+
+#progressPercent{
+	font-family:'BebasNeueRegular';
+	text-align: center;
+	font-size: 10vh;
+	color:white;
+	line-height: 10px; 
+}
+
+#myProgress {
+	margin-left:22vw;
+	padding:10px;
+	width: 50%;
+	background-color: #aec8f2;
+  }
+  
+#myBar {
+	width: 1%;
+	height: 30px;
+	background-color: white;
+}
